@@ -1,2 +1,7 @@
 # sandbox
-Shaxsiy sandbox: kichik Python va DevOps eksperimenlari
+
+Shaxsiy sandbox: kichik Python va DevOps eksperimentlari.
+
+## Texnologiyalar
+
+Python, Django/FastAPI, PostgreSQL, Docker, CI/CD, Linux
